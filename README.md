@@ -39,5 +39,5 @@
 #### Webサイト
 -[『C言語とDxLibで音ゲーのような何かをつくってみる』](https://iconcreator.hatenablog.com/entry/2018/12/27/235450)
 #### 音源
--[『魔王魂』](ttps://maoudamashii.jokersounds.com/)
+-[『魔王魂』](https://maoudamashii.jokersounds.com/)
 曲名:「ファンタジー13」
